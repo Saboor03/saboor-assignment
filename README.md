@@ -1,11 +1,6 @@
-#Add your information below the student info
+
 
 # student-info
+Add your information below everyline that has student -info in the html
 
-Name : Bolaji Ogidan
-Title : Boyscode- Instructor
-Country: Nigeria
-Best Food: Beans & Plantain
-Hobby: Gadgets
 
-# student-info
